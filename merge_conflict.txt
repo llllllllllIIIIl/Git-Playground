@@ -1,4 +1,5 @@
 I am going to artificially create a merge conflict using this text file
 
 
-mergeconflict ediXXXXXXXX from workshopfeb branch
+creating  from workshopfeb branch
+well we will see what happnes.

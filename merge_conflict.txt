@@ -2,4 +2,4 @@ I am going to artificially create a merge conflict using this text file
 
 
 creating  from workshopfeb branch
-well we will see what happnes.
+well we will see what happens.
